@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">我是歌手 罗森</view>
+        <view class="page__desc">欢迎您，在这里您可以进行点歌，也可以选择唱歌</view>
+    </view>
+    <view class="page__bd page__bd_spacing">
+        <button class="weui-btn" bindtap="toList" type="primary">我要点歌</button>
+        <button class="weui-btn" bindtap="toSing" type="default">我要唱歌</button>
+    </view>
+</view>

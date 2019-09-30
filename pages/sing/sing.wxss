@@ -1,0 +1,11 @@
+/* pages/sing/sing.wxss */
+.page-sing-bd {
+  padding-bottom: 20px;
+}
+
+.sing-switch{
+  padding: 10px 5px;
+}
+.sing-checked{
+  padding-left: 30px;
+}
